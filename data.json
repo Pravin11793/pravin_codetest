@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "sal": 50000,
+  "address": [{
+"city": "Pune",
+  "country": "India",
+  "pincode": "10001"
+  }]
+}
